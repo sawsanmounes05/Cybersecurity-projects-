@@ -3,7 +3,7 @@
 Hi! 👋  
 This repository contains **a few of my university projects** — **not all of them**, just the ones I enjoyed the most and feel best represent my skills and progress in Cyber Security.
 
- Note: I also completed a **Software Engineering project**, but it’s in a **separate repository** 
+ Note: I also completed a **Software Engineering project(group work)**, but it’s in a **separate repository** 
 
 ---
 
