@@ -5,35 +5,63 @@ This repository contains **a few of my university projects** — **not all of th
 
  Note: I also completed a **Software Engineering project(group work)**, but it’s in a **separate repository** 
 
+# Sawsan Mounes – Cyber Security Portfolio
+
+
+
 ---
 
-## Contents (What’s in this repo)
+## Contents
 
-### 1) Database Airline System (Folder)
-`database-airline system/`  
-A database project based on an airline-style system, focused on designing and implementing a relational database.
+### 1. Database Airline System
+`database-airline-system/`
+A relational database project designed and implemented around an airline-style system.
 
-### 2) Digital Forensics Reports (PDFs)
- **Forensic Analysis of an Attack.pdf**  
-A forensic investigation report analysing an incident/attack scenario and documenting evidence and findings.
+---
 
- **Analysing Forensic Images - Sawsan Mounes...pdf**  
-A forensic images investigation covering artefact analysis, recovery, and evidence documentation.
+### 2. Digital Forensics Reports
+- **Forensic Analysis of an Attack** – Investigation report analysing an incident/attack scenario, documenting evidence and findings.
+- **Analysing Forensic Images** – Covers artefact analysis, evidence recovery, and documentation from forensic disk images.
 
-### 3) Penetration Testing Report (PDF)
- **Sawsan Mounes Penetration Test Report (1)...pdf**  
+---
+
+### 3. Penetration Testing Report
 A web application security testing report identifying vulnerabilities and suggesting remediation steps.
 
-### 4) Networking / Consultancy Plan (PDF)
- **consulting company's network plan.pdf**  
-A network design/consultancy style plan with security considerations and recommendations.
+---
 
-### 5) Software Development Project (PDF)
- **software development creating accomodation...pdf**  
-A software development project document based on building a system (design + implementation focus).
+### 4. Networking / Consultancy Plan
+A network design and consultancy-style plan with security considerations and recommendations.
 
 ---
 
+### 5. Software Development Project
+A software development project focused on building an accommodation system (design and implementation).
+
+---
+
+### 6. Incident Response – Catnip Games
+An incident response team exercise based on a simulated attack scenario involving Catnip Games, covering detection, containment, and recovery steps.
+
+---
+
+### 7. Cloud Computing Security
+A cloud security report and analysis based on a given scenario, covering threats, controls, and best practices for securing cloud environments.
+
+---
+
+### 8. GRC Compliance
+Governance, Risk, and Compliance (GRC) work covering five different scenarios, applying relevant frameworks and controls to assess and manage risk.
+
+---
+
+### 9. Final Year Project
+**How Resilient Is the HealthCare System in Protecting Patient Data?**
+BSc Final Year Project submitted to the University of Roehampton. Explores cybersecurity resilience in digital healthcare systems through a public survey, examining user trust, awareness of cyber threats, and data protection practices.
+
+---
+
+*BSc Cyber Security – University of Roehampton*
 ## Other Repositories
 ### Software Engineering Project (separate repo)
 
